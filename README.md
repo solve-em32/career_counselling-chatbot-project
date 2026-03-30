@@ -1,6 +1,6 @@
 # 🎓 Career Counselor Bot — Terminal Version
 
-A smart AI-powered career counseling chatbot built in Python.
+A smart AI-powered career counseling chatbot built in PYTHON.
 Helps students figure out career paths, roadmaps, salaries, colleges, and more.
 
 ---
